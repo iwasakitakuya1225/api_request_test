@@ -1,0 +1,4 @@
+# APIリクエスト時のパラメータ(access_tokenとrefresh_tokenは自動的に設定されます)
+
+fields=receive_order_shop_id
+limit=2
