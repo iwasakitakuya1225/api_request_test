@@ -12,7 +12,6 @@ php api.php api_v1_receiveorder_base/search
 ```
 APIのリクエストパラメータはapi_paramsに定義します
 引数で渡すと違うファイルにすることもできます
-例
 ```
 php api.php api_v1_receiveorder_base/count count_api_params
 ```
